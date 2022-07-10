@@ -1,0 +1,17 @@
+{
+"pacientes": [
+	{
+	  "dni": 30014882,
+	  "apellido": "Perez",
+	  "nombre": "Rodrigo",
+	  "fechaNacimiento": "18/02/1989",
+	  "nacionalidad": "Argentina",
+	  "historiaClinica": [
+		"fecha": "02/12/2020",
+		"enfermedad": "Diabetes",
+		"pacienteDe": "Carlos Fernandez",
+		"observaciones": "El paciente se inyecta una dosis de insulina diariamente"
+	  ]
+	}
+]
+}
